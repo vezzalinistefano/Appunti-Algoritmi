@@ -1,4 +1,4 @@
-# Appunti-Universita
+# Appunti Algoritmi e Strutture Dati
 
 Appunti presi in università a partire dall'anno 2018, scritti in markdown.
 
